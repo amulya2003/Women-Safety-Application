@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WomenSafetyApp</string>
+    <string name="sos_button">SOS</string>
+    <string name="location_permission_denied">Location permission denied</string>
+    <string name="emergency_sos_sent">Emergency SOS Sent! Latitude: %1$.6f, Longitude: %2$.6f</string>
+    <string name="no_emergency_contacts">No emergency contacts available</string>
+</resources>
